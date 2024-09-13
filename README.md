@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8130ac41-1694-4926-a6cc-6bc8644d5de5)
 
 
 practice one : useContext
